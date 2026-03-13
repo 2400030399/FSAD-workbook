@@ -1,1 +1,10 @@
-/.metadata/
+# Maven build folder
+target/
+
+# Eclipse / Spring Tool Suite files
+.settings/
+.classpath
+.project
+
+# Log files
+*.log

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;hql-skill3&apos;" deleteContents="false" description="Delete resource &apos;hql-skill3&apos;" element1="/hql-skill3" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1769581601109"/>&#x0A;<refactoring comment="Delete resource &apos;hibernate-crud&apos;" deleteContents="false" description="Delete resource &apos;hibernate-crud&apos;" element1="/hibernate-crud" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1769581613486"/>
+</session>
