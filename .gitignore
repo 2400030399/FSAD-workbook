@@ -8,3 +8,4 @@ target/
 
 # Log files
 *.log
+/.metadata/
